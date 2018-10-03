@@ -1,0 +1,58 @@
+{
+  "countriesList":
+    [
+   {"id":100,
+   "title":"USA",
+   "prelude":"prelude prelude prelude prelude prelude prelude prelude prelude",
+   "description":"description descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription description",
+   "img":"assets/images/s1.jpg"},
+   {"id":101,
+   "title":"USA",
+   "prelude":"prelude prelude prelude prelude prelude prelude prelude prelude",
+   "description":"description descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription description",
+   "img":"assets/images/s1.jpg"},
+   {"id":102,
+   "title":"USA",
+   "prelude":"prelude prelude prelude prelude prelude prelude prelude prelude",
+   "description":"description descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription description",
+   "img":"assets/images/s1.jpg"},
+   {"id":103,
+   "title":"USA",
+   "prelude":"prelude prelude prelude prelude prelude prelude prelude prelude",
+   "description":"description descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription description",
+   "img":"assets/images/s1.jpg"},
+   {"id":104,
+   "title":"USA",
+   "prelude":"prelude prelude prelude prelude prelude prelude prelude prelude",
+   "description":"description descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription description",
+   "img":"assets/images/s1.jpg"},
+   {"id":105,
+   "title":"USA",
+   "prelude":"prelude prelude prelude prelude prelude prelude prelude prelude",
+   "description":"description descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription descriptiondescription description",
+   "img":"assets/images/s1.jpg"}
+ ],
+  "tours": [
+    {"id":200,
+    "url":"String",
+    "title":"String",
+    "prelude":"String",
+    "description":"String",
+    "gallery":[
+		{"img":"assets/images/s1.jpg"},
+		{"img":"assets/images/s1.jpg"}],
+    "cost":3434,
+    "duration":"String"},
+    {"id":201,
+    "url":"String",
+    "title":"String",
+    "prelude":"String",
+    "description":"String",
+    "gallery":[
+		{"img":"assets/images/s1.jpg"},
+		{"img":"assets/images/s1.jpg"}],
+    "cost":343,
+    "duration":"String"}
+  ],
+  "profile": { "name": "typicode" }
+}
