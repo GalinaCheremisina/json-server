@@ -40,7 +40,7 @@
  ],
   "Countryblog":[
   {"id":300,
-    "parent":100,
+    "parent":"africa",
     "url":"luanda",
     "title":"Luanda",
     "name":"Diane",
@@ -54,7 +54,7 @@
 		{"img":"assets/images/country/Angola3.jpg"}
 		]},
   {"id":301,
-    "parent":100,
+    "parent":"africa",
     "url":"kinshasa",
     "name":"Sam",
     "date":"2016",
@@ -66,7 +66,7 @@
 		{"img":"assets/images/country/Kinshasa2.jpg"},
 		{"img":"assets/images/country/Kinshasa3.jpg"}]},
   {"id":302,
-    "parent":101,
+    "parent":"bangladesh",
     "name":"Ilai",
     "date":"2018",
     "url":"bandarban",
